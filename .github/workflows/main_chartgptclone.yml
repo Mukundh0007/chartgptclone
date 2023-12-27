@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'chartgptclone'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_45A2C7C0ACD94E4B8C970D72D54E75FD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5BB8BEF6929043ADAFE1E6740F669AE1 }}
